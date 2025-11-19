@@ -1,4 +1,4 @@
 Name: Ibrahim Stephanie Filimiyan
 Matric Number: 22CG031863
-Live URL: [Leave empty until you deploy]
-GitHub Repository: [Leave empty until you upload]
+Live URL: https://zof-assignment.onrender.com/
+GitHub Repository: https://github.com/Stephanie-ib/ZOF_assignment.git
